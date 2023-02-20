@@ -1,0 +1,1 @@
+export const ferrari = "Is timeless in red and but I would like it in black just to rebel against purists"
