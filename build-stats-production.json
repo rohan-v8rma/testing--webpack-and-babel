@@ -1,0 +1,1045 @@
+{
+    "hash": "e7fde3705f9f5f92965f",
+    "version": "5.75.0",
+    "time": 745,
+    "builtAt": 1677045130655,
+    "publicPath": "auto",
+    "outputPath": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/bundling_output",
+    "assetsByChunkName": {
+        "main": [
+            "bundle.js"
+        ]
+    },
+    "assets": [
+        {
+            "type": "asset",
+            "name": "bundle.js",
+            "size": 3295,
+            "emitted": true,
+            "comparedForEmit": false,
+            "cached": false,
+            "info": {
+                "javascriptModule": false,
+                "minimized": true,
+                "size": 3295
+            },
+            "chunkNames": [
+                "main"
+            ],
+            "chunkIdHints": [],
+            "auxiliaryChunkNames": [],
+            "auxiliaryChunkIdHints": [],
+            "related": {},
+            "chunks": [
+                179
+            ],
+            "auxiliaryChunks": [],
+            "isOverSizeLimit": false
+        }
+    ],
+    "chunks": [
+        {
+            "rendered": true,
+            "initial": true,
+            "entry": true,
+            "recorded": false,
+            "size": 2792,
+            "sizes": {
+                "javascript": 2792
+            },
+            "names": [
+                "main"
+            ],
+            "idHints": [],
+            "runtime": [
+                "main"
+            ],
+            "files": [
+                "bundle.js"
+            ],
+            "auxiliaryFiles": [],
+            "hash": "64636b8826cdcb159224",
+            "childrenByOrder": {},
+            "id": 179,
+            "siblings": [],
+            "parents": [],
+            "children": [],
+            "modules": [
+                {
+                    "type": "module",
+                    "moduleType": "javascript/esm",
+                    "layer": null,
+                    "size": 2792,
+                    "sizes": {
+                        "javascript": 2792
+                    },
+                    "built": true,
+                    "codeGenerated": true,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|66d85bcd183d62bacde597b83562282a",
+                    "name": "./public/index.js + 3 modules",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "index": 0,
+                    "preOrderIndex": 0,
+                    "index2": 3,
+                    "postOrderIndex": 3,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "dependent": false,
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": 124,
+                    "chunks": [
+                        179
+                    ],
+                    "assets": [],
+                    "reasons": [
+                        {
+                            "moduleIdentifier": null,
+                            "module": null,
+                            "moduleName": null,
+                            "resolvedModuleIdentifier": null,
+                            "resolvedModule": null,
+                            "type": "entry",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./public/index.js",
+                            "loc": "main",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        }
+                    ],
+                    "usedExports": [],
+                    "providedExports": [],
+                    "optimizationBailout": [],
+                    "depth": 0,
+                    "modules": [
+                        {
+                            "type": "module",
+                            "moduleType": "javascript/auto",
+                            "layer": null,
+                            "size": 2211,
+                            "sizes": {
+                                "javascript": 2211
+                            },
+                            "built": true,
+                            "codeGenerated": false,
+                            "buildTimeExecuted": false,
+                            "cached": false,
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "name": "./public/index.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "index": 0,
+                            "preOrderIndex": 0,
+                            "index2": 3,
+                            "postOrderIndex": 3,
+                            "cacheable": true,
+                            "optional": false,
+                            "orphan": false,
+                            "dependent": true,
+                            "issuer": null,
+                            "issuerName": null,
+                            "issuerPath": null,
+                            "failed": false,
+                            "errors": 0,
+                            "warnings": 0,
+                            "id": null,
+                            "issuerId": null,
+                            "chunks": [],
+                            "assets": [],
+                            "reasons": [],
+                            "usedExports": [],
+                            "providedExports": [],
+                            "optimizationBailout": [
+                                "Statement (ExpressionStatement) with side effects in source code at 8:0-35"
+                            ],
+                            "depth": 0
+                        },
+                        {
+                            "type": "module",
+                            "moduleType": "javascript/auto",
+                            "layer": null,
+                            "size": 403,
+                            "sizes": {
+                                "javascript": 403
+                            },
+                            "built": true,
+                            "codeGenerated": false,
+                            "buildTimeExecuted": false,
+                            "cached": false,
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "name": "./public/getCars.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "index": 1,
+                            "preOrderIndex": 1,
+                            "index2": 2,
+                            "postOrderIndex": 2,
+                            "cacheable": true,
+                            "optional": false,
+                            "orphan": false,
+                            "dependent": true,
+                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "issuerName": "./public/index.js",
+                            "issuerPath": [
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "name": "./public/index.js",
+                                    "id": null
+                                }
+                            ],
+                            "failed": false,
+                            "errors": 0,
+                            "warnings": 0,
+                            "id": null,
+                            "issuerId": null,
+                            "chunks": [],
+                            "assets": [],
+                            "reasons": [
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "module": "./public/index.js",
+                                    "moduleName": "./public/index.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "resolvedModule": "./public/index.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./getCars",
+                                    "loc": "7:0-32",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "module": "./public/index.js",
+                                    "moduleName": "./public/index.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "resolvedModule": "./public/index.js",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "",
+                                    "userRequest": "./getCars",
+                                    "loc": "9:0-7",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                }
+                            ],
+                            "usedExports": [
+                                "default"
+                            ],
+                            "providedExports": [
+                                "default"
+                            ],
+                            "optimizationBailout": [],
+                            "depth": 1
+                        },
+                        {
+                            "type": "module",
+                            "moduleType": "javascript/auto",
+                            "layer": null,
+                            "size": 73,
+                            "sizes": {
+                                "javascript": 73
+                            },
+                            "built": true,
+                            "codeGenerated": false,
+                            "buildTimeExecuted": false,
+                            "cached": false,
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                            "name": "./public/astonMartin.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                            "index": 2,
+                            "preOrderIndex": 2,
+                            "index2": 0,
+                            "postOrderIndex": 0,
+                            "cacheable": true,
+                            "optional": false,
+                            "orphan": false,
+                            "dependent": true,
+                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "issuerName": "./public/getCars.js",
+                            "issuerPath": [
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "name": "./public/index.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "name": "./public/getCars.js",
+                                    "id": null
+                                }
+                            ],
+                            "failed": false,
+                            "errors": 0,
+                            "warnings": 0,
+                            "id": null,
+                            "issuerId": null,
+                            "chunks": [],
+                            "assets": [],
+                            "reasons": [
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "module": "./public/getCars.js",
+                                    "moduleName": "./public/getCars.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "resolvedModule": "./public/getCars.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./astonMartin",
+                                    "loc": "1:0-44",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "module": "./public/getCars.js",
+                                    "moduleName": "./public/getCars.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "resolvedModule": "./public/getCars.js",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "",
+                                    "userRequest": "./astonMartin",
+                                    "loc": "8:14-25",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                }
+                            ],
+                            "usedExports": [
+                                "astonMartin"
+                            ],
+                            "providedExports": [
+                                "astonMartin"
+                            ],
+                            "optimizationBailout": [],
+                            "depth": 2
+                        },
+                        {
+                            "type": "module",
+                            "moduleType": "javascript/auto",
+                            "layer": null,
+                            "size": 105,
+                            "sizes": {
+                                "javascript": 105
+                            },
+                            "built": true,
+                            "codeGenerated": false,
+                            "buildTimeExecuted": false,
+                            "cached": false,
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
+                            "name": "./public/ferrari.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
+                            "index": 3,
+                            "preOrderIndex": 3,
+                            "index2": 1,
+                            "postOrderIndex": 1,
+                            "cacheable": true,
+                            "optional": false,
+                            "orphan": false,
+                            "dependent": true,
+                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "issuerName": "./public/getCars.js",
+                            "issuerPath": [
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "name": "./public/index.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "name": "./public/getCars.js",
+                                    "id": null
+                                }
+                            ],
+                            "failed": false,
+                            "errors": 0,
+                            "warnings": 0,
+                            "id": null,
+                            "issuerId": null,
+                            "chunks": [],
+                            "assets": [],
+                            "reasons": [
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "module": "./public/getCars.js",
+                                    "moduleName": "./public/getCars.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "resolvedModule": "./public/getCars.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./ferrari",
+                                    "loc": "2:0-36",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "module": "./public/getCars.js",
+                                    "moduleName": "./public/getCars.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "resolvedModule": "./public/getCars.js",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "",
+                                    "userRequest": "./ferrari",
+                                    "loc": "9:14-21",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                }
+                            ],
+                            "usedExports": [
+                                "ferrari"
+                            ],
+                            "providedExports": [
+                                "ferrari"
+                            ],
+                            "optimizationBailout": [],
+                            "depth": 2
+                        }
+                    ]
+                }
+            ],
+            "origins": [
+                {
+                    "module": "",
+                    "moduleIdentifier": "",
+                    "moduleName": "",
+                    "loc": "main",
+                    "request": "./public/index.js"
+                }
+            ]
+        }
+    ],
+    "modules": [
+        {
+            "type": "module",
+            "moduleType": "javascript/esm",
+            "layer": null,
+            "size": 2792,
+            "sizes": {
+                "javascript": 2792
+            },
+            "built": true,
+            "codeGenerated": true,
+            "buildTimeExecuted": false,
+            "cached": false,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|66d85bcd183d62bacde597b83562282a",
+            "name": "./public/index.js + 3 modules",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+            "index": 0,
+            "preOrderIndex": 0,
+            "index2": 3,
+            "postOrderIndex": 3,
+            "cacheable": true,
+            "optional": false,
+            "orphan": false,
+            "failed": false,
+            "errors": 0,
+            "warnings": 0,
+            "id": 124,
+            "chunks": [
+                179
+            ],
+            "assets": [],
+            "reasons": [
+                {
+                    "moduleIdentifier": null,
+                    "module": null,
+                    "moduleName": null,
+                    "resolvedModuleIdentifier": null,
+                    "resolvedModule": null,
+                    "type": "entry",
+                    "active": true,
+                    "explanation": "",
+                    "userRequest": "./public/index.js",
+                    "loc": "main",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                }
+            ],
+            "usedExports": [],
+            "providedExports": [],
+            "optimizationBailout": [],
+            "depth": 0,
+            "modules": [
+                {
+                    "type": "module",
+                    "moduleType": "javascript/auto",
+                    "layer": null,
+                    "size": 2211,
+                    "sizes": {
+                        "javascript": 2211
+                    },
+                    "built": true,
+                    "codeGenerated": false,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "name": "./public/index.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "index": 0,
+                    "preOrderIndex": 0,
+                    "index2": 3,
+                    "postOrderIndex": 3,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "issuer": null,
+                    "issuerName": null,
+                    "issuerPath": null,
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": null,
+                    "issuerId": null,
+                    "chunks": [],
+                    "assets": [],
+                    "reasons": [],
+                    "usedExports": [],
+                    "providedExports": [],
+                    "optimizationBailout": [
+                        "Statement (ExpressionStatement) with side effects in source code at 8:0-35"
+                    ],
+                    "depth": 0
+                },
+                {
+                    "type": "module",
+                    "moduleType": "javascript/auto",
+                    "layer": null,
+                    "size": 403,
+                    "sizes": {
+                        "javascript": 403
+                    },
+                    "built": true,
+                    "codeGenerated": false,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "name": "./public/getCars.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "index": 1,
+                    "preOrderIndex": 1,
+                    "index2": 2,
+                    "postOrderIndex": 2,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "issuerName": "./public/index.js",
+                    "issuerPath": [
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "name": "./public/index.js",
+                            "id": null
+                        }
+                    ],
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": null,
+                    "issuerId": null,
+                    "chunks": [],
+                    "assets": [],
+                    "reasons": [
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "module": "./public/index.js",
+                            "moduleName": "./public/index.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "resolvedModule": "./public/index.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./getCars",
+                            "loc": "7:0-32",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "module": "./public/index.js",
+                            "moduleName": "./public/index.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "resolvedModule": "./public/index.js",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./getCars",
+                            "loc": "9:0-7",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        }
+                    ],
+                    "usedExports": [
+                        "default"
+                    ],
+                    "providedExports": [
+                        "default"
+                    ],
+                    "optimizationBailout": [],
+                    "depth": 1
+                },
+                {
+                    "type": "module",
+                    "moduleType": "javascript/auto",
+                    "layer": null,
+                    "size": 73,
+                    "sizes": {
+                        "javascript": 73
+                    },
+                    "built": true,
+                    "codeGenerated": false,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "name": "./public/astonMartin.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "index": 2,
+                    "preOrderIndex": 2,
+                    "index2": 0,
+                    "postOrderIndex": 0,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "issuerName": "./public/getCars.js",
+                    "issuerPath": [
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "name": "./public/index.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "name": "./public/getCars.js",
+                            "id": null
+                        }
+                    ],
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": null,
+                    "issuerId": null,
+                    "chunks": [],
+                    "assets": [],
+                    "reasons": [
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "module": "./public/getCars.js",
+                            "moduleName": "./public/getCars.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "resolvedModule": "./public/getCars.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./astonMartin",
+                            "loc": "1:0-44",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "module": "./public/getCars.js",
+                            "moduleName": "./public/getCars.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "resolvedModule": "./public/getCars.js",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./astonMartin",
+                            "loc": "8:14-25",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        }
+                    ],
+                    "usedExports": [
+                        "astonMartin"
+                    ],
+                    "providedExports": [
+                        "astonMartin"
+                    ],
+                    "optimizationBailout": [],
+                    "depth": 2
+                },
+                {
+                    "type": "module",
+                    "moduleType": "javascript/auto",
+                    "layer": null,
+                    "size": 105,
+                    "sizes": {
+                        "javascript": 105
+                    },
+                    "built": true,
+                    "codeGenerated": false,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
+                    "name": "./public/ferrari.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
+                    "index": 3,
+                    "preOrderIndex": 3,
+                    "index2": 1,
+                    "postOrderIndex": 1,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "issuerName": "./public/getCars.js",
+                    "issuerPath": [
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "name": "./public/index.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "name": "./public/getCars.js",
+                            "id": null
+                        }
+                    ],
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": null,
+                    "issuerId": null,
+                    "chunks": [],
+                    "assets": [],
+                    "reasons": [
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "module": "./public/getCars.js",
+                            "moduleName": "./public/getCars.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "resolvedModule": "./public/getCars.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./ferrari",
+                            "loc": "2:0-36",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "module": "./public/getCars.js",
+                            "moduleName": "./public/getCars.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "resolvedModule": "./public/getCars.js",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./ferrari",
+                            "loc": "9:14-21",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        }
+                    ],
+                    "usedExports": [
+                        "ferrari"
+                    ],
+                    "providedExports": [
+                        "ferrari"
+                    ],
+                    "optimizationBailout": [],
+                    "depth": 2
+                }
+            ]
+        },
+        {
+            "type": "module",
+            "moduleType": "javascript/auto",
+            "layer": null,
+            "size": 403,
+            "sizes": {
+                "javascript": 403
+            },
+            "built": true,
+            "codeGenerated": false,
+            "buildTimeExecuted": false,
+            "cached": false,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+            "name": "./public/getCars.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+            "index": 1,
+            "preOrderIndex": 1,
+            "index2": 2,
+            "postOrderIndex": 2,
+            "cacheable": true,
+            "optional": false,
+            "orphan": true,
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+            "issuerName": "./public/index.js",
+            "issuerPath": [
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "name": "./public/index.js",
+                    "id": null
+                }
+            ],
+            "failed": false,
+            "errors": 0,
+            "warnings": 0,
+            "id": null,
+            "issuerId": null,
+            "chunks": [],
+            "assets": [],
+            "reasons": [
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "module": "./public/index.js",
+                    "moduleName": "./public/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "resolvedModule": "./public/index.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./getCars",
+                    "loc": "7:0-32",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "module": "./public/index.js",
+                    "moduleName": "./public/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "resolvedModule": "./public/index.js",
+                    "type": "harmony import specifier",
+                    "active": true,
+                    "explanation": "",
+                    "userRequest": "./getCars",
+                    "loc": "9:0-7",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                }
+            ],
+            "usedExports": [
+                "default"
+            ],
+            "providedExports": [
+                "default"
+            ],
+            "optimizationBailout": [],
+            "depth": 1
+        },
+        {
+            "type": "module",
+            "moduleType": "javascript/auto",
+            "layer": null,
+            "size": 73,
+            "sizes": {
+                "javascript": 73
+            },
+            "built": true,
+            "codeGenerated": false,
+            "buildTimeExecuted": false,
+            "cached": false,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+            "name": "./public/astonMartin.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+            "index": 2,
+            "preOrderIndex": 2,
+            "index2": 0,
+            "postOrderIndex": 0,
+            "cacheable": true,
+            "optional": false,
+            "orphan": true,
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+            "issuerName": "./public/getCars.js",
+            "issuerPath": [
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "name": "./public/index.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "name": "./public/getCars.js",
+                    "id": null
+                }
+            ],
+            "failed": false,
+            "errors": 0,
+            "warnings": 0,
+            "id": null,
+            "issuerId": null,
+            "chunks": [],
+            "assets": [],
+            "reasons": [
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "module": "./public/getCars.js",
+                    "moduleName": "./public/getCars.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "resolvedModule": "./public/getCars.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./astonMartin",
+                    "loc": "1:0-44",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "module": "./public/getCars.js",
+                    "moduleName": "./public/getCars.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "resolvedModule": "./public/getCars.js",
+                    "type": "harmony import specifier",
+                    "active": true,
+                    "explanation": "",
+                    "userRequest": "./astonMartin",
+                    "loc": "8:14-25",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                }
+            ],
+            "usedExports": [
+                "astonMartin"
+            ],
+            "providedExports": [
+                "astonMartin"
+            ],
+            "optimizationBailout": [],
+            "depth": 2
+        },
+        {
+            "type": "module",
+            "moduleType": "javascript/auto",
+            "layer": null,
+            "size": 105,
+            "sizes": {
+                "javascript": 105
+            },
+            "built": true,
+            "codeGenerated": false,
+            "buildTimeExecuted": false,
+            "cached": false,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
+            "name": "./public/ferrari.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
+            "index": 3,
+            "preOrderIndex": 3,
+            "index2": 1,
+            "postOrderIndex": 1,
+            "cacheable": true,
+            "optional": false,
+            "orphan": true,
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+            "issuerName": "./public/getCars.js",
+            "issuerPath": [
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "name": "./public/index.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "name": "./public/getCars.js",
+                    "id": null
+                }
+            ],
+            "failed": false,
+            "errors": 0,
+            "warnings": 0,
+            "id": null,
+            "issuerId": null,
+            "chunks": [],
+            "assets": [],
+            "reasons": [
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "module": "./public/getCars.js",
+                    "moduleName": "./public/getCars.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "resolvedModule": "./public/getCars.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./ferrari",
+                    "loc": "2:0-36",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "module": "./public/getCars.js",
+                    "moduleName": "./public/getCars.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "resolvedModule": "./public/getCars.js",
+                    "type": "harmony import specifier",
+                    "active": true,
+                    "explanation": "",
+                    "userRequest": "./ferrari",
+                    "loc": "9:14-21",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                }
+            ],
+            "usedExports": [
+                "ferrari"
+            ],
+            "providedExports": [
+                "ferrari"
+            ],
+            "optimizationBailout": [],
+            "depth": 2
+        }
+    ],
+    "entrypoints": {
+        "main": {
+            "name": "main",
+            "chunks": [
+                179
+            ],
+            "assets": [
+                {
+                    "name": "bundle.js",
+                    "size": 3295
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 3295,
+            "auxiliaryAssets": [],
+            "filteredAuxiliaryAssets": 0,
+            "auxiliaryAssetsSize": 0,
+            "children": {},
+            "childAssets": {},
+            "isOverSizeLimit": false
+        }
+    },
+    "namedChunkGroups": {
+        "main": {
+            "name": "main",
+            "chunks": [
+                179
+            ],
+            "assets": [
+                {
+                    "name": "bundle.js",
+                    "size": 3295
+                }
+            ],
+            "filteredAssets": 0,
+            "assetsSize": 3295,
+            "auxiliaryAssets": [],
+            "filteredAuxiliaryAssets": 0,
+            "auxiliaryAssetsSize": 0,
+            "children": {},
+            "childAssets": {},
+            "isOverSizeLimit": false
+        }
+    },
+    "errors": [],
+    "errorsCount": 0,
+    "warnings": [],
+    "warningsCount": 0,
+    "children": []
+}

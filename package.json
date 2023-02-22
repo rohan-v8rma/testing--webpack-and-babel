@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve",
     "build": "NODE_ENV=production webpack",
-    "build-dev": "webpack --watch"
+    "build-dev": "webpack --watch",
+    "stats": "NODE_ENV=production webpack --json build-stats-production.json",
+    "stats-dev": "webpack --json build-stats-development.json"
   },
   "keywords": [],
   "author": "",
