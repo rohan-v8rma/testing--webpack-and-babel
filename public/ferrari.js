@@ -8,7 +8,10 @@
 //TODO: Refer the format here on how to import methods for minimum bundle size: https://lodash.com/
 // import get from 'lodash/get'
 //? Destructured import from lodash-es
-import { get } from 'lodash-es'
+// import { get } from 'lodash-es'
+//? Installing and importing a single method from lodash
+//! This is possible since the package allows installation of methods separately 
+import get from 'lodash.get'
 
 
 // Nested object
