@@ -1,4 +1,9 @@
-import * as _ from 'lodash'
+//? Default import
+// import _ from 'lodash'
+//? Namespace import
+// import * as _ from 'lodash'
+//? Destructured import
+import { get } from 'lodash'
 
 // Nested object
 const obj = {
@@ -11,7 +16,7 @@ const obj = {
     },
 }
 
-const getBruh = _.get(obj, "one.three.four", {});
+const getBruh = get(obj, "one.three.four", {});
 
 // console.log(getBruh)
 

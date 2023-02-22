@@ -1,8 +1,8 @@
 {
-    "hash": "4a93ca570e6cc65e3297",
+    "hash": "59566f8cb22cc15e92ae",
     "version": "5.75.0",
-    "time": 786,
-    "builtAt": 1677086265003,
+    "time": 705,
+    "builtAt": 1677087974652,
     "publicPath": "auto",
     "outputPath": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/bundling_output",
     "assetsByChunkName": {
@@ -14,13 +14,13 @@
         {
             "type": "asset",
             "name": "bundle.js",
-            "size": 1468187,
+            "size": 1468835,
             "emitted": false,
             "comparedForEmit": true,
             "cached": false,
             "info": {
                 "javascriptModule": false,
-                "size": 1468187
+                "size": 1468835
             },
             "chunkNames": [
                 "main"
@@ -42,9 +42,9 @@
             "initial": true,
             "entry": true,
             "recorded": false,
-            "size": 551829,
+            "size": 552072,
             "sizes": {
-                "javascript": 550548,
+                "javascript": 550791,
                 "runtime": 1281
             },
             "names": [
@@ -58,7 +58,7 @@
                 "bundle.js"
             ],
             "auxiliaryFiles": [],
-            "hash": "80eb8582a86db6fdefa7",
+            "hash": "9a370eb1443b6236c0b9",
             "childrenByOrder": {},
             "id": "main",
             "siblings": [],
@@ -127,7 +127,7 @@
                             "active": true,
                             "explanation": "",
                             "userRequest": "lodash",
-                            "loc": "1:0-28",
+                            "loc": "6:0-29",
                             "moduleId": "./public/ferrari.js",
                             "resolvedModuleId": "./public/ferrari.js"
                         },
@@ -141,7 +141,7 @@
                             "active": true,
                             "explanation": "",
                             "userRequest": "lodash",
-                            "loc": "13:14-19",
+                            "loc": "18:14-17",
                             "moduleId": "./public/ferrari.js",
                             "resolvedModuleId": "./public/ferrari.js"
                         },
@@ -834,7 +834,7 @@
                             "active": true,
                             "explanation": "(skipped side-effect-free modules)",
                             "userRequest": "uuid",
-                            "loc": "2:75-77",
+                            "loc": "7:75-77",
                             "moduleId": "./public/astonMartin.js",
                             "resolvedModuleId": "./public/astonMartin.js"
                         },
@@ -1055,9 +1055,9 @@
                     "type": "module",
                     "moduleType": "javascript/auto",
                     "layer": null,
-                    "size": 107,
+                    "size": 230,
                     "sizes": {
-                        "javascript": 107
+                        "javascript": 230
                     },
                     "built": true,
                     "codeGenerated": true,
@@ -1138,9 +1138,9 @@
                     "type": "module",
                     "moduleType": "javascript/auto",
                     "layer": null,
-                    "size": 315,
+                    "size": 435,
                     "sizes": {
-                        "javascript": 315
+                        "javascript": 435
                     },
                     "built": true,
                     "codeGenerated": true,
@@ -1716,9 +1716,9 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 107,
+            "size": 230,
             "sizes": {
-                "javascript": 107
+                "javascript": 230
             },
             "built": true,
             "codeGenerated": true,
@@ -1798,9 +1798,9 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 315,
+            "size": 435,
             "sizes": {
-                "javascript": 315
+                "javascript": 435
             },
             "built": true,
             "codeGenerated": true,
@@ -1942,7 +1942,7 @@
                     "active": true,
                     "explanation": "(skipped side-effect-free modules)",
                     "userRequest": "uuid",
-                    "loc": "2:75-77",
+                    "loc": "7:75-77",
                     "moduleId": "./public/astonMartin.js",
                     "resolvedModuleId": "./public/astonMartin.js"
                 },
@@ -2043,7 +2043,7 @@
                     "active": true,
                     "explanation": "",
                     "userRequest": "lodash",
-                    "loc": "1:0-28",
+                    "loc": "6:0-29",
                     "moduleId": "./public/ferrari.js",
                     "resolvedModuleId": "./public/ferrari.js"
                 },
@@ -2057,7 +2057,7 @@
                     "active": true,
                     "explanation": "",
                     "userRequest": "lodash",
-                    "loc": "13:14-19",
+                    "loc": "18:14-17",
                     "moduleId": "./public/ferrari.js",
                     "resolvedModuleId": "./public/ferrari.js"
                 },
@@ -2228,7 +2228,7 @@
                     "active": false,
                     "explanation": "",
                     "userRequest": "uuid",
-                    "loc": "1:0-26",
+                    "loc": "6:0-26",
                     "moduleId": "./public/astonMartin.js",
                     "resolvedModuleId": "./public/astonMartin.js"
                 },
@@ -2242,7 +2242,7 @@
                     "active": false,
                     "explanation": "",
                     "userRequest": "uuid",
-                    "loc": "2:75-77",
+                    "loc": "7:75-77",
                     "moduleId": "./public/astonMartin.js",
                     "resolvedModuleId": "./public/astonMartin.js"
                 }
@@ -4051,11 +4051,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 1468187
+                    "size": 1468835
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 1468187,
+            "assetsSize": 1468835,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,
@@ -4073,11 +4073,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 1468187
+                    "size": 1468835
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 1468187,
+            "assetsSize": 1468835,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,
