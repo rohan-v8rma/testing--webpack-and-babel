@@ -6,7 +6,10 @@
 // import { get } from 'lodash'
 //? Importing as recommended by lodash
 //TODO: Refer the format here on how to import methods for minimum bundle size: https://lodash.com/
-import get from 'lodash/get'
+// import get from 'lodash/get'
+//? Destructured import from lodash-es
+import { get } from 'lodash-es'
+
 
 // Nested object
 const obj = {
