@@ -3,7 +3,10 @@
 //? Namespace import
 // import * as _ from 'lodash'
 //? Destructured import
-import { get } from 'lodash'
+// import { get } from 'lodash'
+//? Importing as recommended by lodash
+//TODO: Refer the format here on how to import methods for minimum bundle size: https://lodash.com/
+import get from 'lodash/get'
 
 // Nested object
 const obj = {
