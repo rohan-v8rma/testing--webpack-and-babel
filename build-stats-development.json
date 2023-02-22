@@ -1,8 +1,8 @@
 {
-    "hash": "e7d7f485e98792d790e1",
+    "hash": "fe2c47126629c92ca157",
     "version": "5.75.0",
-    "time": 724,
-    "builtAt": 1677089182124,
+    "time": 16,
+    "builtAt": 1677089785130,
     "publicPath": "auto",
     "outputPath": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/bundling_output",
     "assetsByChunkName": {
@@ -14,13 +14,13 @@
         {
             "type": "asset",
             "name": "bundle.js",
-            "size": 94574,
+            "size": 94772,
             "emitted": false,
-            "comparedForEmit": true,
-            "cached": false,
+            "comparedForEmit": false,
+            "cached": true,
             "info": {
                 "javascriptModule": false,
-                "size": 94574
+                "size": 94772
             },
             "chunkNames": [
                 "main"
@@ -38,13 +38,13 @@
     ],
     "chunks": [
         {
-            "rendered": true,
+            "rendered": false,
             "initial": true,
             "entry": true,
             "recorded": false,
-            "size": 31583,
+            "size": 31665,
             "sizes": {
-                "javascript": 30425,
+                "javascript": 30507,
                 "runtime": 1158
             },
             "names": [
@@ -58,7 +58,7 @@
                 "bundle.js"
             ],
             "auxiliaryFiles": [],
-            "hash": "fb1f9914a9a31faf5443",
+            "hash": "bff1cbb80f9093a9d97e",
             "childrenByOrder": {},
             "id": "main",
             "siblings": [],
@@ -73,10 +73,10 @@
                     "sizes": {
                         "javascript": 23398
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/lodash.get/index.js",
                     "name": "./node_modules/lodash.get/index.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/lodash.get/index.js",
@@ -127,7 +127,7 @@
                             "active": true,
                             "explanation": "",
                             "userRequest": "lodash.get",
-                            "loc": "13:0-29",
+                            "loc": "14:0-29",
                             "moduleId": "./public/ferrari.js",
                             "resolvedModuleId": "./public/ferrari.js"
                         },
@@ -141,7 +141,7 @@
                             "active": true,
                             "explanation": "",
                             "userRequest": "lodash.get",
-                            "loc": "25:14-17",
+                            "loc": "26:14-17",
                             "moduleId": "./public/ferrari.js",
                             "resolvedModuleId": "./public/ferrari.js"
                         },
@@ -162,9 +162,7 @@
                     ],
                     "usedExports": null,
                     "providedExports": null,
-                    "optimizationBailout": [
-                        "CommonJS bailout: module.exports is used directly at 931:0-14"
-                    ],
+                    "optimizationBailout": [],
                     "depth": 3
                 },
                 {
@@ -175,10 +173,10 @@
                     "sizes": {
                         "javascript": 137
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
                     "name": "./node_modules/uuid/dist/esm-browser/native.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
@@ -287,10 +285,10 @@
                     "sizes": {
                         "javascript": 133
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/regex.js",
                     "name": "./node_modules/uuid/dist/esm-browser/regex.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/regex.js",
@@ -385,10 +383,10 @@
                     "sizes": {
                         "javascript": 838
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
                     "name": "./node_modules/uuid/dist/esm-browser/rng.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
@@ -511,10 +509,10 @@
                     "sizes": {
                         "javascript": 1485
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
                     "name": "./node_modules/uuid/dist/esm-browser/stringify.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
@@ -689,10 +687,10 @@
                     "sizes": {
                         "javascript": 680
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
                     "name": "./node_modules/uuid/dist/esm-browser/v4.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
@@ -796,10 +794,10 @@
                     "sizes": {
                         "javascript": 141
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/validate.js",
                     "name": "./node_modules/uuid/dist/esm-browser/validate.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/validate.js",
@@ -973,10 +971,10 @@
                     "sizes": {
                         "javascript": 230
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                     "name": "./public/astonMartin.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
@@ -1052,14 +1050,14 @@
                     "type": "module",
                     "moduleType": "javascript/auto",
                     "layer": null,
-                    "size": 769,
+                    "size": 851,
                     "sizes": {
-                        "javascript": 769
+                        "javascript": 851
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
                     "name": "./public/ferrari.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
@@ -1139,10 +1137,10 @@
                     "sizes": {
                         "javascript": 403
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
                     "name": "./public/getCars.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
@@ -1217,10 +1215,10 @@
                     "sizes": {
                         "javascript": 2211
                     },
-                    "built": true,
-                    "codeGenerated": true,
+                    "built": false,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
                     "name": "./public/index.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
@@ -1274,9 +1272,9 @@
                         "runtime": 267
                     },
                     "built": false,
-                    "codeGenerated": true,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "webpack/runtime/compat get default export",
                     "name": "webpack/runtime/compat get default export",
                     "nameForCondition": null,
@@ -1310,9 +1308,9 @@
                         "runtime": 308
                     },
                     "built": false,
-                    "codeGenerated": true,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "webpack/runtime/define property getters",
                     "name": "webpack/runtime/define property getters",
                     "nameForCondition": null,
@@ -1346,9 +1344,9 @@
                         "runtime": 221
                     },
                     "built": false,
-                    "codeGenerated": true,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "webpack/runtime/global",
                     "name": "webpack/runtime/global",
                     "nameForCondition": null,
@@ -1382,9 +1380,9 @@
                         "runtime": 88
                     },
                     "built": false,
-                    "codeGenerated": true,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "webpack/runtime/hasOwnProperty shorthand",
                     "name": "webpack/runtime/hasOwnProperty shorthand",
                     "nameForCondition": null,
@@ -1418,9 +1416,9 @@
                         "runtime": 274
                     },
                     "built": false,
-                    "codeGenerated": true,
+                    "codeGenerated": false,
                     "buildTimeExecuted": false,
-                    "cached": false,
+                    "cached": true,
                     "identifier": "webpack/runtime/make namespace object",
                     "name": "webpack/runtime/make namespace object",
                     "nameForCondition": null,
@@ -1466,10 +1464,10 @@
             "sizes": {
                 "javascript": 2211
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
             "name": "./public/index.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
@@ -1521,10 +1519,10 @@
             "sizes": {
                 "javascript": 403
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
             "name": "./public/getCars.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
@@ -1598,10 +1596,10 @@
             "sizes": {
                 "javascript": 230
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
             "name": "./public/astonMartin.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
@@ -1676,14 +1674,14 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 769,
+            "size": 851,
             "sizes": {
-                "javascript": 769
+                "javascript": 851
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
             "name": "./public/ferrari.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
@@ -1762,10 +1760,10 @@
             "sizes": {
                 "javascript": 680
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
             "name": "./node_modules/uuid/dist/esm-browser/v4.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
@@ -1868,10 +1866,10 @@
             "sizes": {
                 "javascript": 23398
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/lodash.get/index.js",
             "name": "./node_modules/lodash.get/index.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/lodash.get/index.js",
@@ -1921,7 +1919,7 @@
                     "active": true,
                     "explanation": "",
                     "userRequest": "lodash.get",
-                    "loc": "13:0-29",
+                    "loc": "14:0-29",
                     "moduleId": "./public/ferrari.js",
                     "resolvedModuleId": "./public/ferrari.js"
                 },
@@ -1935,7 +1933,7 @@
                     "active": true,
                     "explanation": "",
                     "userRequest": "lodash.get",
-                    "loc": "25:14-17",
+                    "loc": "26:14-17",
                     "moduleId": "./public/ferrari.js",
                     "resolvedModuleId": "./public/ferrari.js"
                 },
@@ -1956,9 +1954,7 @@
             ],
             "usedExports": null,
             "providedExports": null,
-            "optimizationBailout": [
-                "CommonJS bailout: module.exports is used directly at 931:0-14"
-            ],
+            "optimizationBailout": [],
             "depth": 3
         },
         {
@@ -1969,10 +1965,10 @@
             "sizes": {
                 "javascript": 412
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
             "name": "./node_modules/uuid/dist/esm-browser/index.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
@@ -2062,10 +2058,10 @@
             "sizes": {
                 "javascript": 137
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
             "name": "./node_modules/uuid/dist/esm-browser/native.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
@@ -2173,10 +2169,10 @@
             "sizes": {
                 "javascript": 838
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
             "name": "./node_modules/uuid/dist/esm-browser/rng.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
@@ -2298,10 +2294,10 @@
             "sizes": {
                 "javascript": 1485
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
             "name": "./node_modules/uuid/dist/esm-browser/stringify.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
@@ -2475,10 +2471,10 @@
             "sizes": {
                 "javascript": 141
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/validate.js",
             "name": "./node_modules/uuid/dist/esm-browser/validate.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/validate.js",
@@ -2651,10 +2647,10 @@
             "sizes": {
                 "javascript": 54
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/nil.js",
             "name": "./node_modules/uuid/dist/esm-browser/nil.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/nil.js",
@@ -2741,10 +2737,10 @@
             "sizes": {
                 "javascript": 1106
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/parse.js",
             "name": "./node_modules/uuid/dist/esm-browser/parse.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/parse.js",
@@ -2859,10 +2855,10 @@
             "sizes": {
                 "javascript": 3322
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
             "name": "./node_modules/uuid/dist/esm-browser/v1.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
@@ -2949,10 +2945,10 @@
             "sizes": {
                 "javascript": 107
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v3.js",
             "name": "./node_modules/uuid/dist/esm-browser/v3.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v3.js",
@@ -3039,10 +3035,10 @@
             "sizes": {
                 "javascript": 110
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v5.js",
             "name": "./node_modules/uuid/dist/esm-browser/v5.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v5.js",
@@ -3129,10 +3125,10 @@
             "sizes": {
                 "javascript": 200
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/version.js",
             "name": "./node_modules/uuid/dist/esm-browser/version.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/version.js",
@@ -3219,10 +3215,10 @@
             "sizes": {
                 "javascript": 133
             },
-            "built": true,
-            "codeGenerated": true,
+            "built": false,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/regex.js",
             "name": "./node_modules/uuid/dist/esm-browser/regex.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/regex.js",
@@ -3316,10 +3312,10 @@
             "sizes": {
                 "javascript": 6880
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/md5.js",
             "name": "./node_modules/uuid/dist/esm-browser/md5.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/md5.js",
@@ -3411,10 +3407,10 @@
             "sizes": {
                 "javascript": 2474
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/sha1.js",
             "name": "./node_modules/uuid/dist/esm-browser/sha1.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/sha1.js",
@@ -3506,10 +3502,10 @@
             "sizes": {
                 "javascript": 1776
             },
-            "built": true,
+            "built": false,
             "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
             "name": "./node_modules/uuid/dist/esm-browser/v35.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
@@ -3632,9 +3628,9 @@
                 "runtime": 267
             },
             "built": false,
-            "codeGenerated": true,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "webpack/runtime/compat get default export",
             "name": "webpack/runtime/compat get default export",
             "nameForCondition": null,
@@ -3667,9 +3663,9 @@
                 "runtime": 308
             },
             "built": false,
-            "codeGenerated": true,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "webpack/runtime/define property getters",
             "name": "webpack/runtime/define property getters",
             "nameForCondition": null,
@@ -3702,9 +3698,9 @@
                 "runtime": 221
             },
             "built": false,
-            "codeGenerated": true,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "webpack/runtime/global",
             "name": "webpack/runtime/global",
             "nameForCondition": null,
@@ -3737,9 +3733,9 @@
                 "runtime": 88
             },
             "built": false,
-            "codeGenerated": true,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "webpack/runtime/hasOwnProperty shorthand",
             "name": "webpack/runtime/hasOwnProperty shorthand",
             "nameForCondition": null,
@@ -3772,9 +3768,9 @@
                 "runtime": 274
             },
             "built": false,
-            "codeGenerated": true,
+            "codeGenerated": false,
             "buildTimeExecuted": false,
-            "cached": false,
+            "cached": true,
             "identifier": "webpack/runtime/make namespace object",
             "name": "webpack/runtime/make namespace object",
             "nameForCondition": null,
@@ -3808,11 +3804,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 94574
+                    "size": 94772
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 94574,
+            "assetsSize": 94772,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,
@@ -3830,11 +3826,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 94574
+                    "size": 94772
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 94574,
+            "assetsSize": 94772,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,

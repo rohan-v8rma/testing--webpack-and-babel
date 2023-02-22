@@ -16,7 +16,7 @@ const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPl
 * This is a variable for deciding the build mode
 ? Refer Node README.md for more information on the `process.env` global Node object
 */
-const mode = (process.env.NODE_ENV === 'production') ? 'production' : 'development';
+const mode = process.env.NODE_ENV || 'development';
 
 module.exports = {
     /*
@@ -34,7 +34,11 @@ module.exports = {
 
     //! Read up on plugins from the Webpack&Babel README.md
     //? This plugin will run everytime `webpack` is called.
-    plugins: [new BundleAnalyzerPlugin()],
+    plugins: [new BundleAnalyzerPlugin({
+
+        //* This helps us control when the Bundle Analyzer Plugin is run, with the help of an environment variable.
+        analyzerMode: process.env.STATS || "disabled"
+    })],
 
     /*
     * Source maps are files that map the compiled code back to the original source code. 
