@@ -9,6 +9,9 @@ This means that you can use Node.js functions and syntax, such as require() and 
 // `path` is a functionality that comes with Nodejs
 const path = require('path');
 
+//! Read up on plugins from the Webpack&Babel README.md
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
+
 /*
 * This is a variable for deciding the build mode
 ? Refer Node README.md for more information on the `process.env` global Node object
@@ -28,6 +31,10 @@ module.exports = {
     */
     // mode: 'development',
     mode: mode,
+
+    //! Read up on plugins from the Webpack&Babel README.md
+    //? This plugin will run everytime `webpack` is called.
+    plugins: [new BundleAnalyzerPlugin()],
 
     /*
     * Source maps are files that map the compiled code back to the original source code. 
