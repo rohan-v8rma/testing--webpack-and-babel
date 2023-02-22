@@ -1,8 +1,8 @@
 {
-    "hash": "1139da68861d87445182",
+    "hash": "4a93ca570e6cc65e3297",
     "version": "5.75.0",
-    "time": 760,
-    "builtAt": 1677080389707,
+    "time": 786,
+    "builtAt": 1677086265003,
     "publicPath": "auto",
     "outputPath": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/bundling_output",
     "assetsByChunkName": {
@@ -14,13 +14,13 @@
         {
             "type": "asset",
             "name": "bundle.js",
-            "size": 1468193,
+            "size": 1468187,
             "emitted": false,
             "comparedForEmit": true,
             "cached": false,
             "info": {
                 "javascriptModule": false,
-                "size": 1468193
+                "size": 1468187
             },
             "chunkNames": [
                 "main"
@@ -42,9 +42,9 @@
             "initial": true,
             "entry": true,
             "recorded": false,
-            "size": 551824,
+            "size": 551829,
             "sizes": {
-                "javascript": 550543,
+                "javascript": 550548,
                 "runtime": 1281
             },
             "names": [
@@ -58,7 +58,7 @@
                 "bundle.js"
             ],
             "auxiliaryFiles": [],
-            "hash": "6dcd1da4183c03a74d77",
+            "hash": "80eb8582a86db6fdefa7",
             "childrenByOrder": {},
             "id": "main",
             "siblings": [],
@@ -127,7 +127,7 @@
                             "active": true,
                             "explanation": "",
                             "userRequest": "lodash",
-                            "loc": "1:0-23",
+                            "loc": "1:0-28",
                             "moduleId": "./public/ferrari.js",
                             "resolvedModuleId": "./public/ferrari.js"
                         },
@@ -1138,9 +1138,9 @@
                     "type": "module",
                     "moduleType": "javascript/auto",
                     "layer": null,
-                    "size": 310,
+                    "size": 315,
                     "sizes": {
-                        "javascript": 310
+                        "javascript": 315
                     },
                     "built": true,
                     "codeGenerated": true,
@@ -1798,9 +1798,9 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 310,
+            "size": 315,
             "sizes": {
-                "javascript": 310
+                "javascript": 315
             },
             "built": true,
             "codeGenerated": true,
@@ -2043,7 +2043,7 @@
                     "active": true,
                     "explanation": "",
                     "userRequest": "lodash",
-                    "loc": "1:0-23",
+                    "loc": "1:0-28",
                     "moduleId": "./public/ferrari.js",
                     "resolvedModuleId": "./public/ferrari.js"
                 },
@@ -4051,11 +4051,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 1468193
+                    "size": 1468187
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 1468193,
+            "assetsSize": 1468187,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,
@@ -4073,11 +4073,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 1468193
+                    "size": 1468187
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 1468193,
+            "assetsSize": 1468187,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,
