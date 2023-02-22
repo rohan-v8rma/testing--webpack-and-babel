@@ -1,8 +1,8 @@
 {
-    "hash": "f5b6ddb72e0c20a1b3ff",
+    "hash": "055e3184186d01ae6949",
     "version": "5.75.0",
-    "time": 660,
-    "builtAt": 1677045860930,
+    "time": 826,
+    "builtAt": 1677046954229,
     "publicPath": "auto",
     "outputPath": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/bundling_output",
     "assetsByChunkName": {
@@ -14,14 +14,14 @@
         {
             "type": "asset",
             "name": "bundle.js",
-            "size": 4515,
+            "size": 10533,
             "emitted": true,
             "comparedForEmit": false,
             "cached": false,
             "info": {
                 "javascriptModule": false,
                 "minimized": true,
-                "size": 4515
+                "size": 10533
             },
             "chunkNames": [
                 "main"
@@ -43,10 +43,9 @@
             "initial": true,
             "entry": true,
             "recorded": false,
-            "size": 3515,
+            "size": 5974,
             "sizes": {
-                "javascript": 3241,
-                "runtime": 274
+                "javascript": 5974
             },
             "names": [
                 "main"
@@ -59,7 +58,7 @@
                 "bundle.js"
             ],
             "auxiliaryFiles": [],
-            "hash": "31495125173735173cb1",
+            "hash": "5b118a226b273b5d0f28",
             "childrenByOrder": {},
             "id": 179,
             "siblings": [],
@@ -70,21 +69,21 @@
                     "type": "module",
                     "moduleType": "javascript/esm",
                     "layer": null,
-                    "size": 3241,
+                    "size": 5974,
                     "sizes": {
-                        "javascript": 3241
+                        "javascript": 5974
                     },
                     "built": true,
                     "codeGenerated": true,
                     "buildTimeExecuted": false,
                     "cached": false,
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "name": "./public/index.js + 4 modules",
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|a37c212bb32e143e2b5666abfc46ed9f",
+                    "name": "./public/index.js + 7 modules",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
                     "index": 0,
                     "preOrderIndex": 0,
-                    "index2": 4,
-                    "postOrderIndex": 4,
+                    "index2": 7,
+                    "postOrderIndex": 7,
                     "cacheable": true,
                     "optional": false,
                     "orphan": false,
@@ -92,7 +91,7 @@
                     "failed": false,
                     "errors": 0,
                     "warnings": 0,
-                    "id": 181,
+                    "id": 568,
                     "chunks": [
                         179
                     ],
@@ -135,8 +134,8 @@
                             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
                             "index": 0,
                             "preOrderIndex": 0,
-                            "index2": 4,
-                            "postOrderIndex": 4,
+                            "index2": 7,
+                            "postOrderIndex": 7,
                             "cacheable": true,
                             "optional": false,
                             "orphan": false,
@@ -176,8 +175,8 @@
                             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
                             "index": 1,
                             "preOrderIndex": 1,
-                            "index2": 3,
-                            "postOrderIndex": 3,
+                            "index2": 6,
+                            "postOrderIndex": 6,
                             "cacheable": true,
                             "optional": false,
                             "orphan": false,
@@ -243,9 +242,9 @@
                             "type": "module",
                             "moduleType": "javascript/auto",
                             "layer": null,
-                            "size": 110,
+                            "size": 115,
                             "sizes": {
-                                "javascript": 110
+                                "javascript": 115
                             },
                             "built": true,
                             "codeGenerated": false,
@@ -256,8 +255,8 @@
                             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                             "index": 2,
                             "preOrderIndex": 2,
-                            "index2": 1,
-                            "postOrderIndex": 1,
+                            "index2": 4,
+                            "postOrderIndex": 4,
                             "cacheable": true,
                             "optional": false,
                             "orphan": false,
@@ -339,10 +338,10 @@
                             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
                             "name": "./public/ferrari.js",
                             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
-                            "index": 4,
-                            "preOrderIndex": 4,
-                            "index2": 2,
-                            "postOrderIndex": 2,
+                            "index": 7,
+                            "preOrderIndex": 7,
+                            "index2": 5,
+                            "postOrderIndex": 5,
                             "cacheable": true,
                             "optional": false,
                             "orphan": false,
@@ -411,27 +410,27 @@
                             "type": "module",
                             "moduleType": "javascript/auto",
                             "layer": null,
-                            "size": 412,
+                            "size": 680,
                             "sizes": {
-                                "javascript": 412
+                                "javascript": 680
                             },
                             "built": true,
                             "codeGenerated": false,
                             "buildTimeExecuted": false,
                             "cached": false,
-                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                            "name": "./node_modules/uuid/dist/esm-browser/index.js",
-                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
                             "index": 3,
                             "preOrderIndex": 3,
-                            "index2": 0,
-                            "postOrderIndex": 0,
+                            "index2": 3,
+                            "postOrderIndex": 3,
                             "cacheable": true,
                             "optional": false,
                             "orphan": false,
                             "dependent": true,
-                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                            "issuerName": "./public/astonMartin.js",
+                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
                             "issuerPath": [
                                 {
                                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
@@ -446,6 +445,11 @@
                                 {
                                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                                     "name": "./public/astonMartin.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
                                     "id": null
                                 }
                             ],
@@ -463,25 +467,39 @@
                                     "moduleName": "./public/astonMartin.js",
                                     "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                                     "resolvedModule": "./public/astonMartin.js",
-                                    "type": "harmony side effect evaluation",
-                                    "active": false,
-                                    "explanation": "",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "(skipped side-effect-free modules)",
                                     "userRequest": "uuid",
-                                    "loc": "1:0-24",
+                                    "loc": "2:75-82",
                                     "moduleId": null,
                                     "resolvedModuleId": null
                                 },
                                 {
-                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                                    "module": "./public/astonMartin.js",
-                                    "moduleName": "./public/astonMartin.js",
-                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                                    "resolvedModule": "./public/astonMartin.js",
-                                    "type": "harmony import specifier",
-                                    "active": true,
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
                                     "explanation": "",
-                                    "userRequest": "uuid",
-                                    "loc": "2:75-82",
+                                    "userRequest": "./v4.js",
+                                    "loc": "3:0-40",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "type": "harmony export imported specifier",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./v4.js",
+                                    "loc": "3:0-40",
                                     "moduleId": null,
                                     "resolvedModuleId": null
                                 }
@@ -490,56 +508,434 @@
                                 "default"
                             ],
                             "providedExports": [
-                                "NIL",
-                                "parse",
-                                "stringify",
-                                "v1",
-                                "v3",
-                                "v4",
-                                "v5",
-                                "validate",
-                                "version"
+                                "default"
                             ],
                             "optimizationBailout": [],
                             "depth": 3
+                        },
+                        {
+                            "type": "module",
+                            "moduleType": "javascript/auto",
+                            "layer": null,
+                            "size": 137,
+                            "sizes": {
+                                "javascript": 137
+                            },
+                            "built": true,
+                            "codeGenerated": false,
+                            "buildTimeExecuted": false,
+                            "cached": false,
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/native.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
+                            "index": 4,
+                            "preOrderIndex": 4,
+                            "index2": 0,
+                            "postOrderIndex": 0,
+                            "cacheable": true,
+                            "optional": false,
+                            "orphan": false,
+                            "dependent": true,
+                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "issuerName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "issuerPath": [
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "name": "./public/index.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "name": "./public/getCars.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                                    "name": "./public/astonMartin.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "name": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "id": null
+                                }
+                            ],
+                            "failed": false,
+                            "errors": 0,
+                            "warnings": 0,
+                            "id": null,
+                            "issuerId": null,
+                            "chunks": [],
+                            "assets": [],
+                            "reasons": [
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./native.js",
+                                    "loc": "1:0-33",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "",
+                                    "userRequest": "./native.js",
+                                    "loc": "6:6-23",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "",
+                                    "userRequest": "./native.js",
+                                    "loc": "7:11-28",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                }
+                            ],
+                            "usedExports": [
+                                "default"
+                            ],
+                            "providedExports": [
+                                "default"
+                            ],
+                            "optimizationBailout": [
+                                "Statement (VariableDeclaration) with side effects in source code at 1:0-104"
+                            ],
+                            "depth": 4
+                        },
+                        {
+                            "type": "module",
+                            "moduleType": "javascript/auto",
+                            "layer": null,
+                            "size": 838,
+                            "sizes": {
+                                "javascript": 838
+                            },
+                            "built": true,
+                            "codeGenerated": false,
+                            "buildTimeExecuted": false,
+                            "cached": false,
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/rng.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
+                            "index": 5,
+                            "preOrderIndex": 5,
+                            "index2": 1,
+                            "postOrderIndex": 1,
+                            "cacheable": true,
+                            "optional": false,
+                            "orphan": false,
+                            "dependent": true,
+                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "issuerName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "issuerPath": [
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "name": "./public/index.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "name": "./public/getCars.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                                    "name": "./public/astonMartin.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "name": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "id": null
+                                }
+                            ],
+                            "failed": false,
+                            "errors": 0,
+                            "warnings": 0,
+                            "id": null,
+                            "issuerId": null,
+                            "chunks": [],
+                            "assets": [],
+                            "reasons": [
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./rng.js",
+                                    "loc": "1:0-27",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "type": "harmony import specifier",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./rng.js",
+                                    "loc": "25:56-59",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./rng.js",
+                                    "loc": "2:0-27",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "",
+                                    "userRequest": "./rng.js",
+                                    "loc": "11:49-52",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                }
+                            ],
+                            "usedExports": [
+                                "default"
+                            ],
+                            "providedExports": [
+                                "default"
+                            ],
+                            "optimizationBailout": [
+                                "Statement (VariableDeclaration) with side effects in source code at 5:0-33"
+                            ],
+                            "depth": 4
+                        },
+                        {
+                            "type": "module",
+                            "moduleType": "javascript/auto",
+                            "layer": null,
+                            "size": 1485,
+                            "sizes": {
+                                "javascript": 1485
+                            },
+                            "built": true,
+                            "codeGenerated": false,
+                            "buildTimeExecuted": false,
+                            "cached": false,
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/stringify.js",
+                            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
+                            "index": 6,
+                            "preOrderIndex": 6,
+                            "index2": 2,
+                            "postOrderIndex": 2,
+                            "cacheable": true,
+                            "optional": false,
+                            "orphan": false,
+                            "dependent": true,
+                            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "issuerPath": [
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                                    "name": "./public/index.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                                    "name": "./public/getCars.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                                    "name": "./public/astonMartin.js",
+                                    "id": null
+                                },
+                                {
+                                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "id": null
+                                }
+                            ],
+                            "failed": false,
+                            "errors": 0,
+                            "warnings": 0,
+                            "id": null,
+                            "issuerId": null,
+                            "chunks": [],
+                            "assets": [],
+                            "reasons": [
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "8:0-54",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                                    "type": "harmony export imported specifier",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "8:0-54",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "2:0-49",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                                    "type": "harmony import specifier",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "92:16-31",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v35.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "1:0-49",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v35.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
+                                    "type": "harmony import specifier",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "54:11-26",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "type": "harmony side effect evaluation",
+                                    "active": false,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "3:0-49",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                },
+                                {
+                                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                                    "type": "harmony import specifier",
+                                    "active": true,
+                                    "explanation": "",
+                                    "userRequest": "./stringify.js",
+                                    "loc": "26:9-24",
+                                    "moduleId": null,
+                                    "resolvedModuleId": null
+                                }
+                            ],
+                            "usedExports": [
+                                "unsafeStringify"
+                            ],
+                            "providedExports": [
+                                "default",
+                                "unsafeStringify"
+                            ],
+                            "optimizationBailout": [
+                                "Statement (ForStatement) with side effects in source code at 9:0-11:1"
+                            ],
+                            "depth": 4
                         }
                     ]
-                },
-                {
-                    "type": "module",
-                    "moduleType": "runtime",
-                    "layer": null,
-                    "size": 274,
-                    "sizes": {
-                        "runtime": 274
-                    },
-                    "built": false,
-                    "codeGenerated": true,
-                    "buildTimeExecuted": false,
-                    "cached": false,
-                    "identifier": "webpack/runtime/make namespace object",
-                    "name": "webpack/runtime/make namespace object",
-                    "nameForCondition": null,
-                    "index": null,
-                    "preOrderIndex": null,
-                    "index2": null,
-                    "postOrderIndex": null,
-                    "optional": false,
-                    "orphan": false,
-                    "dependent": false,
-                    "failed": false,
-                    "errors": 0,
-                    "warnings": 0,
-                    "id": "",
-                    "chunks": [
-                        179
-                    ],
-                    "assets": [],
-                    "reasons": [],
-                    "usedExports": null,
-                    "providedExports": [],
-                    "optimizationBailout": [],
-                    "depth": null
                 }
             ],
             "origins": [
@@ -558,28 +954,28 @@
             "type": "module",
             "moduleType": "javascript/esm",
             "layer": null,
-            "size": 3241,
+            "size": 5974,
             "sizes": {
-                "javascript": 3241
+                "javascript": 5974
             },
             "built": true,
             "codeGenerated": true,
             "buildTimeExecuted": false,
             "cached": false,
-            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-            "name": "./public/index.js + 4 modules",
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|a37c212bb32e143e2b5666abfc46ed9f",
+            "name": "./public/index.js + 7 modules",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
             "index": 0,
             "preOrderIndex": 0,
-            "index2": 4,
-            "postOrderIndex": 4,
+            "index2": 7,
+            "postOrderIndex": 7,
             "cacheable": true,
             "optional": false,
             "orphan": false,
             "failed": false,
             "errors": 0,
             "warnings": 0,
-            "id": 181,
+            "id": 568,
             "chunks": [
                 179
             ],
@@ -622,8 +1018,8 @@
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
                     "index": 0,
                     "preOrderIndex": 0,
-                    "index2": 4,
-                    "postOrderIndex": 4,
+                    "index2": 7,
+                    "postOrderIndex": 7,
                     "cacheable": true,
                     "optional": false,
                     "orphan": false,
@@ -662,8 +1058,8 @@
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
                     "index": 1,
                     "preOrderIndex": 1,
-                    "index2": 3,
-                    "postOrderIndex": 3,
+                    "index2": 6,
+                    "postOrderIndex": 6,
                     "cacheable": true,
                     "optional": false,
                     "orphan": false,
@@ -728,9 +1124,9 @@
                     "type": "module",
                     "moduleType": "javascript/auto",
                     "layer": null,
-                    "size": 110,
+                    "size": 115,
                     "sizes": {
-                        "javascript": 110
+                        "javascript": 115
                     },
                     "built": true,
                     "codeGenerated": false,
@@ -741,8 +1137,8 @@
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                     "index": 2,
                     "preOrderIndex": 2,
-                    "index2": 1,
-                    "postOrderIndex": 1,
+                    "index2": 4,
+                    "postOrderIndex": 4,
                     "cacheable": true,
                     "optional": false,
                     "orphan": false,
@@ -823,10 +1219,10 @@
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
                     "name": "./public/ferrari.js",
                     "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
-                    "index": 4,
-                    "preOrderIndex": 4,
-                    "index2": 2,
-                    "postOrderIndex": 2,
+                    "index": 7,
+                    "preOrderIndex": 7,
+                    "index2": 5,
+                    "postOrderIndex": 5,
                     "cacheable": true,
                     "optional": false,
                     "orphan": false,
@@ -894,26 +1290,26 @@
                     "type": "module",
                     "moduleType": "javascript/auto",
                     "layer": null,
-                    "size": 412,
+                    "size": 680,
                     "sizes": {
-                        "javascript": 412
+                        "javascript": 680
                     },
                     "built": true,
                     "codeGenerated": false,
                     "buildTimeExecuted": false,
                     "cached": false,
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
                     "index": 3,
                     "preOrderIndex": 3,
-                    "index2": 0,
-                    "postOrderIndex": 0,
+                    "index2": 3,
+                    "postOrderIndex": 3,
                     "cacheable": true,
                     "optional": false,
                     "orphan": false,
-                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                    "issuerName": "./public/astonMartin.js",
+                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
                     "issuerPath": [
                         {
                             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
@@ -928,6 +1324,11 @@
                         {
                             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                             "name": "./public/astonMartin.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/index.js",
                             "id": null
                         }
                     ],
@@ -945,25 +1346,39 @@
                             "moduleName": "./public/astonMartin.js",
                             "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                             "resolvedModule": "./public/astonMartin.js",
-                            "type": "harmony side effect evaluation",
-                            "active": false,
-                            "explanation": "",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "(skipped side-effect-free modules)",
                             "userRequest": "uuid",
-                            "loc": "1:0-24",
+                            "loc": "2:75-82",
                             "moduleId": null,
                             "resolvedModuleId": null
                         },
                         {
-                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                            "module": "./public/astonMartin.js",
-                            "moduleName": "./public/astonMartin.js",
-                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                            "resolvedModule": "./public/astonMartin.js",
-                            "type": "harmony import specifier",
-                            "active": true,
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
                             "explanation": "",
-                            "userRequest": "uuid",
-                            "loc": "2:75-82",
+                            "userRequest": "./v4.js",
+                            "loc": "3:0-40",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "type": "harmony export imported specifier",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./v4.js",
+                            "loc": "3:0-40",
                             "moduleId": null,
                             "resolvedModuleId": null
                         }
@@ -972,18 +1387,429 @@
                         "default"
                     ],
                     "providedExports": [
-                        "NIL",
-                        "parse",
-                        "stringify",
-                        "v1",
-                        "v3",
-                        "v4",
-                        "v5",
-                        "validate",
-                        "version"
+                        "default"
                     ],
                     "optimizationBailout": [],
                     "depth": 3
+                },
+                {
+                    "type": "module",
+                    "moduleType": "javascript/auto",
+                    "layer": null,
+                    "size": 137,
+                    "sizes": {
+                        "javascript": 137
+                    },
+                    "built": true,
+                    "codeGenerated": false,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/native.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
+                    "index": 4,
+                    "preOrderIndex": 4,
+                    "index2": 0,
+                    "postOrderIndex": 0,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "issuerName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "issuerPath": [
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "name": "./public/index.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "name": "./public/getCars.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                            "name": "./public/astonMartin.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "id": null
+                        }
+                    ],
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": null,
+                    "issuerId": null,
+                    "chunks": [],
+                    "assets": [],
+                    "reasons": [
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./native.js",
+                            "loc": "1:0-33",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./native.js",
+                            "loc": "6:6-23",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./native.js",
+                            "loc": "7:11-28",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        }
+                    ],
+                    "usedExports": [
+                        "default"
+                    ],
+                    "providedExports": [
+                        "default"
+                    ],
+                    "optimizationBailout": [
+                        "Statement (VariableDeclaration) with side effects in source code at 1:0-104"
+                    ],
+                    "depth": 4
+                },
+                {
+                    "type": "module",
+                    "moduleType": "javascript/auto",
+                    "layer": null,
+                    "size": 838,
+                    "sizes": {
+                        "javascript": 838
+                    },
+                    "built": true,
+                    "codeGenerated": false,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/rng.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
+                    "index": 5,
+                    "preOrderIndex": 5,
+                    "index2": 1,
+                    "postOrderIndex": 1,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                    "issuerName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                    "issuerPath": [
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "name": "./public/index.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "name": "./public/getCars.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                            "name": "./public/astonMartin.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "id": null
+                        }
+                    ],
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": null,
+                    "issuerId": null,
+                    "chunks": [],
+                    "assets": [],
+                    "reasons": [
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./rng.js",
+                            "loc": "1:0-27",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "type": "harmony import specifier",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./rng.js",
+                            "loc": "25:56-59",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./rng.js",
+                            "loc": "2:0-27",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./rng.js",
+                            "loc": "11:49-52",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        }
+                    ],
+                    "usedExports": [
+                        "default"
+                    ],
+                    "providedExports": [
+                        "default"
+                    ],
+                    "optimizationBailout": [
+                        "Statement (VariableDeclaration) with side effects in source code at 5:0-33"
+                    ],
+                    "depth": 4
+                },
+                {
+                    "type": "module",
+                    "moduleType": "javascript/auto",
+                    "layer": null,
+                    "size": 1485,
+                    "sizes": {
+                        "javascript": 1485
+                    },
+                    "built": true,
+                    "codeGenerated": false,
+                    "buildTimeExecuted": false,
+                    "cached": false,
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/stringify.js",
+                    "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
+                    "index": 6,
+                    "preOrderIndex": 6,
+                    "index2": 2,
+                    "postOrderIndex": 2,
+                    "cacheable": true,
+                    "optional": false,
+                    "orphan": false,
+                    "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "issuerPath": [
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                            "name": "./public/index.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                            "name": "./public/getCars.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                            "name": "./public/astonMartin.js",
+                            "id": null
+                        },
+                        {
+                            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "id": null
+                        }
+                    ],
+                    "failed": false,
+                    "errors": 0,
+                    "warnings": 0,
+                    "id": null,
+                    "issuerId": null,
+                    "chunks": [],
+                    "assets": [],
+                    "reasons": [
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "8:0-54",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                            "type": "harmony export imported specifier",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "8:0-54",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "2:0-49",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
+                            "type": "harmony import specifier",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "92:16-31",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v35.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "1:0-49",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v35.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
+                            "type": "harmony import specifier",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "54:11-26",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "type": "harmony side effect evaluation",
+                            "active": false,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "3:0-49",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        },
+                        {
+                            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                            "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                            "type": "harmony import specifier",
+                            "active": true,
+                            "explanation": "",
+                            "userRequest": "./stringify.js",
+                            "loc": "26:9-24",
+                            "moduleId": null,
+                            "resolvedModuleId": null
+                        }
+                    ],
+                    "usedExports": [
+                        "unsafeStringify"
+                    ],
+                    "providedExports": [
+                        "default",
+                        "unsafeStringify"
+                    ],
+                    "optimizationBailout": [
+                        "Statement (ForStatement) with side effects in source code at 9:0-11:1"
+                    ],
+                    "depth": 4
                 }
             ]
         },
@@ -1004,8 +1830,8 @@
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
             "index": 1,
             "preOrderIndex": 1,
-            "index2": 3,
-            "postOrderIndex": 3,
+            "index2": 6,
+            "postOrderIndex": 6,
             "cacheable": true,
             "optional": false,
             "orphan": true,
@@ -1070,9 +1896,9 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 110,
+            "size": 115,
             "sizes": {
-                "javascript": 110
+                "javascript": 115
             },
             "built": true,
             "codeGenerated": false,
@@ -1083,8 +1909,8 @@
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
             "index": 2,
             "preOrderIndex": 2,
-            "index2": 1,
-            "postOrderIndex": 1,
+            "index2": 4,
+            "postOrderIndex": 4,
             "cacheable": true,
             "optional": false,
             "orphan": true,
@@ -1165,10 +1991,10 @@
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
             "name": "./public/ferrari.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/ferrari.js",
-            "index": 4,
-            "preOrderIndex": 4,
-            "index2": 2,
-            "postOrderIndex": 2,
+            "index": 7,
+            "preOrderIndex": 7,
+            "index2": 5,
+            "postOrderIndex": 5,
             "cacheable": true,
             "optional": false,
             "orphan": true,
@@ -1236,6 +2062,112 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
+            "size": 680,
+            "sizes": {
+                "javascript": 680
+            },
+            "built": true,
+            "codeGenerated": false,
+            "buildTimeExecuted": false,
+            "cached": false,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+            "name": "./node_modules/uuid/dist/esm-browser/v4.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+            "index": 3,
+            "preOrderIndex": 3,
+            "index2": 3,
+            "postOrderIndex": 3,
+            "cacheable": true,
+            "optional": false,
+            "orphan": true,
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
+            "issuerPath": [
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "name": "./public/index.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "name": "./public/getCars.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "name": "./public/astonMartin.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "id": null
+                }
+            ],
+            "failed": false,
+            "errors": 0,
+            "warnings": 0,
+            "id": null,
+            "issuerId": null,
+            "chunks": [],
+            "assets": [],
+            "reasons": [
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "module": "./public/astonMartin.js",
+                    "moduleName": "./public/astonMartin.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "resolvedModule": "./public/astonMartin.js",
+                    "type": "harmony import specifier",
+                    "active": true,
+                    "explanation": "(skipped side-effect-free modules)",
+                    "userRequest": "uuid",
+                    "loc": "2:75-82",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./v4.js",
+                    "loc": "3:0-40",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "type": "harmony export imported specifier",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./v4.js",
+                    "loc": "3:0-40",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                }
+            ],
+            "usedExports": [
+                "default"
+            ],
+            "providedExports": [
+                "default"
+            ],
+            "optimizationBailout": [],
+            "depth": 3
+        },
+        {
+            "type": "module",
+            "moduleType": "javascript/auto",
+            "layer": null,
             "size": 412,
             "sizes": {
                 "javascript": 412
@@ -1247,10 +2179,10 @@
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
             "name": "./node_modules/uuid/dist/esm-browser/index.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-            "index": 3,
-            "preOrderIndex": 3,
-            "index2": 0,
-            "postOrderIndex": 0,
+            "index": null,
+            "preOrderIndex": null,
+            "index2": null,
+            "postOrderIndex": null,
             "cacheable": true,
             "optional": false,
             "orphan": true,
@@ -1291,7 +2223,7 @@
                     "active": false,
                     "explanation": "",
                     "userRequest": "uuid",
-                    "loc": "1:0-24",
+                    "loc": "1:0-29",
                     "moduleId": null,
                     "resolvedModuleId": null
                 },
@@ -1302,17 +2234,43 @@
                     "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
                     "resolvedModule": "./public/astonMartin.js",
                     "type": "harmony import specifier",
-                    "active": true,
+                    "active": false,
                     "explanation": "",
                     "userRequest": "uuid",
                     "loc": "2:75-82",
                     "moduleId": null,
                     "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|a37c212bb32e143e2b5666abfc46ed9f",
+                    "module": "./public/index.js + 7 modules",
+                    "moduleName": "./public/index.js + 7 modules",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "resolvedModule": "./public/astonMartin.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "uuid",
+                    "loc": "1:0-29",
+                    "moduleId": 568,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|a37c212bb32e143e2b5666abfc46ed9f",
+                    "module": "./public/index.js + 7 modules",
+                    "moduleName": "./public/index.js + 7 modules",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "resolvedModule": "./public/astonMartin.js",
+                    "type": "harmony import specifier",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "uuid",
+                    "loc": "2:75-82",
+                    "moduleId": 568,
+                    "resolvedModuleId": null
                 }
             ],
-            "usedExports": [
-                "default"
-            ],
+            "usedExports": false,
             "providedExports": [
                 "NIL",
                 "parse",
@@ -1324,33 +2282,35 @@
                 "validate",
                 "version"
             ],
-            "optimizationBailout": [],
+            "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not in any chunk"
+            ],
             "depth": 3
         },
         {
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 54,
+            "size": 137,
             "sizes": {
-                "javascript": 54
+                "javascript": 137
             },
             "built": true,
             "codeGenerated": false,
             "buildTimeExecuted": false,
             "cached": false,
-            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/nil.js",
-            "name": "./node_modules/uuid/dist/esm-browser/nil.js",
-            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/nil.js",
-            "index": null,
-            "preOrderIndex": null,
-            "index2": null,
-            "postOrderIndex": null,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
+            "name": "./node_modules/uuid/dist/esm-browser/native.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
+            "index": 4,
+            "preOrderIndex": 4,
+            "index2": 0,
+            "postOrderIndex": 0,
             "cacheable": true,
             "optional": false,
             "orphan": true,
-            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+            "issuerName": "./node_modules/uuid/dist/esm-browser/v4.js",
             "issuerPath": [
                 {
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
@@ -1371,6 +2331,11 @@
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
                     "name": "./node_modules/uuid/dist/esm-browser/index.js",
                     "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "id": null
                 }
             ],
             "failed": false,
@@ -1382,68 +2347,56 @@
             "assets": [],
             "reasons": [
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
                     "type": "harmony side effect evaluation",
                     "active": false,
                     "explanation": "",
-                    "userRequest": "./nil.js",
-                    "loc": "5:0-42",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./nil.js",
-                    "loc": "5:0-42",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./nil.js",
-                    "loc": "5:0-42",
+                    "userRequest": "./native.js",
+                    "loc": "1:0-33",
                     "moduleId": null,
                     "resolvedModuleId": null
                 },
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "type": "harmony import specifier",
+                    "active": true,
                     "explanation": "",
-                    "userRequest": "./nil.js",
-                    "loc": "5:0-42",
+                    "userRequest": "./native.js",
+                    "loc": "6:6-23",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "type": "harmony import specifier",
+                    "active": true,
+                    "explanation": "",
+                    "userRequest": "./native.js",
+                    "loc": "7:11-28",
                     "moduleId": null,
                     "resolvedModuleId": null
                 }
             ],
-            "usedExports": false,
+            "usedExports": [
+                "default"
+            ],
             "providedExports": [
                 "default"
             ],
             "optimizationBailout": [
-                "ModuleConcatenation bailout: Module is not in any chunk"
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-104"
             ],
             "depth": 4
         },
@@ -1451,26 +2404,26 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 1106,
+            "size": 838,
             "sizes": {
-                "javascript": 1106
+                "javascript": 838
             },
             "built": true,
             "codeGenerated": false,
             "buildTimeExecuted": false,
             "cached": false,
-            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/parse.js",
-            "name": "./node_modules/uuid/dist/esm-browser/parse.js",
-            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/parse.js",
-            "index": null,
-            "preOrderIndex": null,
-            "index2": null,
-            "postOrderIndex": null,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
+            "name": "./node_modules/uuid/dist/esm-browser/rng.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
+            "index": 5,
+            "preOrderIndex": 5,
+            "index2": 1,
+            "postOrderIndex": 1,
             "cacheable": true,
             "optional": false,
             "orphan": true,
-            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+            "issuerName": "./node_modules/uuid/dist/esm-browser/v1.js",
             "issuerPath": [
                 {
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
@@ -1491,6 +2444,11 @@
                     "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
                     "name": "./node_modules/uuid/dist/esm-browser/index.js",
                     "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/v1.js",
+                    "id": null
                 }
             ],
             "failed": false,
@@ -1502,96 +2460,70 @@
             "assets": [],
             "reasons": [
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
                     "type": "harmony side effect evaluation",
                     "active": false,
                     "explanation": "",
-                    "userRequest": "./parse.js",
-                    "loc": "9:0-46",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./parse.js",
-                    "loc": "9:0-46",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./parse.js",
-                    "loc": "9:0-46",
+                    "userRequest": "./rng.js",
+                    "loc": "1:0-27",
                     "moduleId": null,
                     "resolvedModuleId": null
                 },
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./parse.js",
-                    "loc": "9:0-46",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v35.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./parse.js",
-                    "loc": "2:0-31",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v35.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
                     "type": "harmony import specifier",
                     "active": false,
                     "explanation": "",
-                    "userRequest": "./parse.js",
-                    "loc": "27:18-23",
+                    "userRequest": "./rng.js",
+                    "loc": "25:56-59",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./rng.js",
+                    "loc": "2:0-27",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
+                    "type": "harmony import specifier",
+                    "active": true,
+                    "explanation": "",
+                    "userRequest": "./rng.js",
+                    "loc": "11:49-52",
                     "moduleId": null,
                     "resolvedModuleId": null
                 }
             ],
-            "usedExports": false,
+            "usedExports": [
+                "default"
+            ],
             "providedExports": [
                 "default"
             ],
             "optimizationBailout": [
-                "ModuleConcatenation bailout: Module is not in any chunk"
+                "Statement (VariableDeclaration) with side effects in source code at 5:0-33"
             ],
             "depth": 4
         },
@@ -1610,10 +2542,10 @@
             "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
             "name": "./node_modules/uuid/dist/esm-browser/stringify.js",
             "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
-            "index": null,
-            "preOrderIndex": null,
-            "index2": null,
-            "postOrderIndex": null,
+            "index": 6,
+            "preOrderIndex": 6,
+            "index2": 2,
+            "postOrderIndex": 2,
             "cacheable": true,
             "optional": false,
             "orphan": true,
@@ -1649,34 +2581,6 @@
             "chunks": [],
             "assets": [],
             "reasons": [
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./stringify.js",
-                    "loc": "8:0-54",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./stringify.js",
-                    "loc": "8:0-54",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
                 {
                     "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
                     "module": "./node_modules/uuid/dist/esm-browser/index.js",
@@ -1782,7 +2686,7 @@
                     "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
                     "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
                     "type": "harmony import specifier",
-                    "active": false,
+                    "active": true,
                     "explanation": "",
                     "userRequest": "./stringify.js",
                     "loc": "26:9-24",
@@ -1790,13 +2694,226 @@
                     "resolvedModuleId": null
                 }
             ],
-            "usedExports": false,
+            "usedExports": [
+                "unsafeStringify"
+            ],
             "providedExports": [
                 "default",
                 "unsafeStringify"
             ],
             "optimizationBailout": [
-                "Statement (ForStatement) with side effects in source code at 9:0-11:1",
+                "Statement (ForStatement) with side effects in source code at 9:0-11:1"
+            ],
+            "depth": 4
+        },
+        {
+            "type": "module",
+            "moduleType": "javascript/auto",
+            "layer": null,
+            "size": 54,
+            "sizes": {
+                "javascript": 54
+            },
+            "built": true,
+            "codeGenerated": false,
+            "buildTimeExecuted": false,
+            "cached": false,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/nil.js",
+            "name": "./node_modules/uuid/dist/esm-browser/nil.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/nil.js",
+            "index": null,
+            "preOrderIndex": null,
+            "index2": null,
+            "postOrderIndex": null,
+            "cacheable": true,
+            "optional": false,
+            "orphan": true,
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
+            "issuerPath": [
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "name": "./public/index.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "name": "./public/getCars.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "name": "./public/astonMartin.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "id": null
+                }
+            ],
+            "failed": false,
+            "errors": 0,
+            "warnings": 0,
+            "id": null,
+            "issuerId": null,
+            "chunks": [],
+            "assets": [],
+            "reasons": [
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./nil.js",
+                    "loc": "5:0-42",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "type": "harmony export imported specifier",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./nil.js",
+                    "loc": "5:0-42",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                }
+            ],
+            "usedExports": false,
+            "providedExports": [
+                "default"
+            ],
+            "optimizationBailout": [
+                "ModuleConcatenation bailout: Module is not in any chunk"
+            ],
+            "depth": 4
+        },
+        {
+            "type": "module",
+            "moduleType": "javascript/auto",
+            "layer": null,
+            "size": 1106,
+            "sizes": {
+                "javascript": 1106
+            },
+            "built": true,
+            "codeGenerated": false,
+            "buildTimeExecuted": false,
+            "cached": false,
+            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/parse.js",
+            "name": "./node_modules/uuid/dist/esm-browser/parse.js",
+            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/parse.js",
+            "index": null,
+            "preOrderIndex": null,
+            "index2": null,
+            "postOrderIndex": null,
+            "cacheable": true,
+            "optional": false,
+            "orphan": true,
+            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
+            "issuerPath": [
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
+                    "name": "./public/index.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
+                    "name": "./public/getCars.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
+                    "name": "./public/astonMartin.js",
+                    "id": null
+                },
+                {
+                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "id": null
+                }
+            ],
+            "failed": false,
+            "errors": 0,
+            "warnings": 0,
+            "id": null,
+            "issuerId": null,
+            "chunks": [],
+            "assets": [],
+            "reasons": [
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./parse.js",
+                    "loc": "9:0-46",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "type": "harmony export imported specifier",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./parse.js",
+                    "loc": "9:0-46",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v35.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
+                    "type": "harmony side effect evaluation",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./parse.js",
+                    "loc": "2:0-31",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                },
+                {
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                    "module": "./node_modules/uuid/dist/esm-browser/v35.js",
+                    "moduleName": "./node_modules/uuid/dist/esm-browser/v35.js",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v35.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v35.js",
+                    "type": "harmony import specifier",
+                    "active": false,
+                    "explanation": "",
+                    "userRequest": "./parse.js",
+                    "loc": "27:18-23",
+                    "moduleId": null,
+                    "resolvedModuleId": null
+                }
+            ],
+            "usedExports": false,
+            "providedExports": [
+                "default"
+            ],
+            "optimizationBailout": [
                 "ModuleConcatenation bailout: Module is not in any chunk"
             ],
             "depth": 4
@@ -1855,34 +2972,6 @@
             "chunks": [],
             "assets": [],
             "reasons": [
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v1.js",
-                    "loc": "1:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v1.js",
-                    "loc": "1:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
                 {
                     "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
                     "module": "./node_modules/uuid/dist/esm-browser/index.js",
@@ -1976,34 +3065,6 @@
             "assets": [],
             "reasons": [
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v3.js",
-                    "loc": "2:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v3.js",
-                    "loc": "2:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
                     "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
                     "module": "./node_modules/uuid/dist/esm-browser/index.js",
                     "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
@@ -2038,126 +3099,6 @@
             ],
             "optimizationBailout": [
                 "Statement (VariableDeclaration) with side effects in source code at 3:0-32",
-                "ModuleConcatenation bailout: Module is not in any chunk"
-            ],
-            "depth": 4
-        },
-        {
-            "type": "module",
-            "moduleType": "javascript/auto",
-            "layer": null,
-            "size": 680,
-            "sizes": {
-                "javascript": 680
-            },
-            "built": true,
-            "codeGenerated": false,
-            "buildTimeExecuted": false,
-            "cached": false,
-            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-            "name": "./node_modules/uuid/dist/esm-browser/v4.js",
-            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-            "index": null,
-            "preOrderIndex": null,
-            "index2": null,
-            "postOrderIndex": null,
-            "cacheable": true,
-            "optional": false,
-            "orphan": true,
-            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-            "issuerName": "./node_modules/uuid/dist/esm-browser/index.js",
-            "issuerPath": [
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
-                    "name": "./public/index.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
-                    "name": "./public/getCars.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                    "name": "./public/astonMartin.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "id": null
-                }
-            ],
-            "failed": false,
-            "errors": 0,
-            "warnings": 0,
-            "id": null,
-            "issuerId": null,
-            "chunks": [],
-            "assets": [],
-            "reasons": [
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v4.js",
-                    "loc": "3:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v4.js",
-                    "loc": "3:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v4.js",
-                    "loc": "3:0-40",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v4.js",
-                    "loc": "3:0-40",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                }
-            ],
-            "usedExports": false,
-            "providedExports": [
-                "default"
-            ],
-            "optimizationBailout": [
                 "ModuleConcatenation bailout: Module is not in any chunk"
             ],
             "depth": 4
@@ -2216,34 +3157,6 @@
             "chunks": [],
             "assets": [],
             "reasons": [
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v5.js",
-                    "loc": "4:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./v5.js",
-                    "loc": "4:0-40",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
                 {
                     "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
                     "module": "./node_modules/uuid/dist/esm-browser/index.js",
@@ -2338,31 +3251,31 @@
             "assets": [],
             "reasons": [
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|a37c212bb32e143e2b5666abfc46ed9f",
+                    "module": "./public/index.js + 7 modules",
+                    "moduleName": "./public/index.js + 7 modules",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/stringify.js",
                     "type": "harmony side effect evaluation",
                     "active": false,
                     "explanation": "",
                     "userRequest": "./validate.js",
-                    "loc": "7:0-52",
-                    "moduleId": 181,
+                    "loc": "1:0-37",
+                    "moduleId": 568,
                     "resolvedModuleId": null
                 },
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
+                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|a37c212bb32e143e2b5666abfc46ed9f",
+                    "module": "./public/index.js + 7 modules",
+                    "moduleName": "./public/index.js + 7 modules",
+                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/stringify.js",
+                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/stringify.js",
+                    "type": "harmony import specifier",
                     "active": false,
                     "explanation": "",
                     "userRequest": "./validate.js",
-                    "loc": "7:0-52",
-                    "moduleId": 181,
+                    "loc": "26:7-15",
+                    "moduleId": 568,
                     "resolvedModuleId": null
                 },
                 {
@@ -2542,34 +3455,6 @@
             "assets": [],
             "reasons": [
                 {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./version.js",
-                    "loc": "6:0-50",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js|c8363c282bd700b8dcf28063b12a0ec7",
-                    "module": "./public/index.js + 4 modules",
-                    "moduleName": "./public/index.js + 4 modules",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "type": "harmony export imported specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./version.js",
-                    "loc": "6:0-50",
-                    "moduleId": 181,
-                    "resolvedModuleId": null
-                },
-                {
                     "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
                     "module": "./node_modules/uuid/dist/esm-browser/index.js",
                     "moduleName": "./node_modules/uuid/dist/esm-browser/index.js",
@@ -2708,118 +3593,6 @@
             "type": "module",
             "moduleType": "javascript/auto",
             "layer": null,
-            "size": 137,
-            "sizes": {
-                "javascript": 137
-            },
-            "built": true,
-            "codeGenerated": false,
-            "buildTimeExecuted": false,
-            "cached": false,
-            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
-            "name": "./node_modules/uuid/dist/esm-browser/native.js",
-            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/native.js",
-            "index": null,
-            "preOrderIndex": null,
-            "index2": null,
-            "postOrderIndex": null,
-            "cacheable": true,
-            "optional": false,
-            "orphan": true,
-            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-            "issuerName": "./node_modules/uuid/dist/esm-browser/v4.js",
-            "issuerPath": [
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
-                    "name": "./public/index.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
-                    "name": "./public/getCars.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                    "name": "./public/astonMartin.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "name": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "id": null
-                }
-            ],
-            "failed": false,
-            "errors": 0,
-            "warnings": 0,
-            "id": null,
-            "issuerId": null,
-            "chunks": [],
-            "assets": [],
-            "reasons": [
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./native.js",
-                    "loc": "1:0-33",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "type": "harmony import specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./native.js",
-                    "loc": "6:6-23",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "type": "harmony import specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./native.js",
-                    "loc": "7:11-28",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                }
-            ],
-            "usedExports": false,
-            "providedExports": [
-                "default"
-            ],
-            "optimizationBailout": [
-                "Statement (VariableDeclaration) with side effects in source code at 1:0-104",
-                "ModuleConcatenation bailout: Module is not in any chunk"
-            ],
-            "depth": 5
-        },
-        {
-            "type": "module",
-            "moduleType": "javascript/auto",
-            "layer": null,
             "size": 133,
             "sizes": {
                 "javascript": 133
@@ -2909,132 +3682,6 @@
                 "default"
             ],
             "optimizationBailout": [
-                "ModuleConcatenation bailout: Module is not in any chunk"
-            ],
-            "depth": 5
-        },
-        {
-            "type": "module",
-            "moduleType": "javascript/auto",
-            "layer": null,
-            "size": 838,
-            "sizes": {
-                "javascript": 838
-            },
-            "built": true,
-            "codeGenerated": false,
-            "buildTimeExecuted": false,
-            "cached": false,
-            "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
-            "name": "./node_modules/uuid/dist/esm-browser/rng.js",
-            "nameForCondition": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/rng.js",
-            "index": null,
-            "preOrderIndex": null,
-            "index2": null,
-            "postOrderIndex": null,
-            "cacheable": true,
-            "optional": false,
-            "orphan": true,
-            "issuer": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
-            "issuerName": "./node_modules/uuid/dist/esm-browser/v1.js",
-            "issuerPath": [
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
-                    "name": "./public/index.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
-                    "name": "./public/getCars.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                    "name": "./public/astonMartin.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/index.js",
-                    "name": "./node_modules/uuid/dist/esm-browser/index.js",
-                    "id": null
-                },
-                {
-                    "identifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
-                    "name": "./node_modules/uuid/dist/esm-browser/v1.js",
-                    "id": null
-                }
-            ],
-            "failed": false,
-            "errors": 0,
-            "warnings": 0,
-            "id": null,
-            "issuerId": null,
-            "chunks": [],
-            "assets": [],
-            "reasons": [
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./rng.js",
-                    "loc": "1:0-27",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v1.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v1.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v1.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v1.js",
-                    "type": "harmony import specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./rng.js",
-                    "loc": "25:56-59",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "type": "harmony side effect evaluation",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./rng.js",
-                    "loc": "2:0-27",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                },
-                {
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "module": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "moduleName": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModuleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/uuid/dist/esm-browser/v4.js",
-                    "resolvedModule": "./node_modules/uuid/dist/esm-browser/v4.js",
-                    "type": "harmony import specifier",
-                    "active": false,
-                    "explanation": "",
-                    "userRequest": "./rng.js",
-                    "loc": "11:49-52",
-                    "moduleId": null,
-                    "resolvedModuleId": null
-                }
-            ],
-            "usedExports": false,
-            "providedExports": [
-                "default"
-            ],
-            "optimizationBailout": [
-                "Statement (VariableDeclaration) with side effects in source code at 5:0-33",
                 "ModuleConcatenation bailout: Module is not in any chunk"
             ],
             "depth": 5
@@ -3262,41 +3909,6 @@
                 "ModuleConcatenation bailout: Module is not in any chunk"
             ],
             "depth": 5
-        },
-        {
-            "type": "module",
-            "moduleType": "runtime",
-            "layer": null,
-            "size": 274,
-            "sizes": {
-                "runtime": 274
-            },
-            "built": false,
-            "codeGenerated": true,
-            "buildTimeExecuted": false,
-            "cached": false,
-            "identifier": "webpack/runtime/make namespace object",
-            "name": "webpack/runtime/make namespace object",
-            "nameForCondition": null,
-            "index": null,
-            "preOrderIndex": null,
-            "index2": null,
-            "postOrderIndex": null,
-            "optional": false,
-            "orphan": false,
-            "failed": false,
-            "errors": 0,
-            "warnings": 0,
-            "id": "",
-            "chunks": [
-                179
-            ],
-            "assets": [],
-            "reasons": [],
-            "usedExports": null,
-            "providedExports": [],
-            "optimizationBailout": [],
-            "depth": null
         }
     ],
     "entrypoints": {
@@ -3308,11 +3920,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 4515
+                    "size": 10533
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 4515,
+            "assetsSize": 10533,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,
@@ -3330,11 +3942,11 @@
             "assets": [
                 {
                     "name": "bundle.js",
-                    "size": 4515
+                    "size": 10533
                 }
             ],
             "filteredAssets": 0,
-            "assetsSize": 4515,
+            "assetsSize": 10533,
             "auxiliaryAssets": [],
             "filteredAuxiliaryAssets": 0,
             "auxiliaryAssetsSize": 0,
@@ -3345,50 +3957,7 @@
     },
     "errors": [],
     "errorsCount": 0,
-    "warnings": [
-        {
-            "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-            "moduleName": "./public/astonMartin.js",
-            "loc": "2:75-82",
-            "message": "export 'default' (imported as 'uuid') was not found in 'uuid' (possible exports: NIL, parse, stringify, v1, v3, v4, v5, validate, version)",
-            "moduleId": null,
-            "moduleTrace": [
-                {
-                    "originIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
-                    "originName": "./public/getCars.js",
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/astonMartin.js",
-                    "moduleName": "./public/astonMartin.js",
-                    "dependencies": [
-                        {
-                            "loc": "1:0-44"
-                        },
-                        {
-                            "loc": "8:14-25"
-                        }
-                    ],
-                    "originId": null,
-                    "moduleId": null
-                },
-                {
-                    "originIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/index.js",
-                    "originName": "./public/index.js",
-                    "moduleIdentifier": "/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/babel-loader/lib/index.js!/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/public/getCars.js",
-                    "moduleName": "./public/getCars.js",
-                    "dependencies": [
-                        {
-                            "loc": "7:0-32"
-                        },
-                        {
-                            "loc": "9:0-7"
-                        }
-                    ],
-                    "originId": null,
-                    "moduleId": null
-                }
-            ],
-            "stack": "    at HarmonyImportSpecifierDependency.getLinkingErrors (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/dependencies/HarmonyImportDependency.js:160:8)\n    at HarmonyImportSpecifierDependency._getErrors (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/dependencies/HarmonyImportSpecifierDependency.js:202:15)\n    at HarmonyImportSpecifierDependency.getWarnings (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/dependencies/HarmonyImportSpecifierDependency.js:178:16)\n    at Compilation.reportDependencyErrorsAndWarnings (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compilation.js:3132:24)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compilation.js:2729:28\n    at _next2 (eval at create (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:25:1)\n    at eval (eval at create (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:52:1)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/FlagDependencyExportsPlugin.js:385:11\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2830:7\n    at Object.each (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2850:39)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/FlagDependencyExportsPlugin.js:361:18\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2830:7\n    at Object.each (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2850:39)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/FlagDependencyExportsPlugin.js:51:16\n    at Hook.eval [as callAsync] (eval at create (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:48:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/Hook.js:18:14)\n    at Compilation.finish (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compilation.js:2714:28)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compiler.js:1182:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)\n\nModuleDependencyWarning: export 'default' (imported as 'uuid') was not found in 'uuid' (possible exports: NIL, parse, stringify, v1, v3, v4, v5, validate, version)\n    at Compilation.reportDependencyErrorsAndWarnings (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compilation.js:3137:23)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compilation.js:2729:28\n    at _next2 (eval at create (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:25:1)\n    at eval (eval at create (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:52:1)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/FlagDependencyExportsPlugin.js:385:11\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2830:7\n    at Object.each (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2850:39)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/FlagDependencyExportsPlugin.js:361:18\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2830:7\n    at Object.each (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/neo-async/async.js:2850:39)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/FlagDependencyExportsPlugin.js:51:16\n    at Hook.eval [as callAsync] (eval at create (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:48:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/tapable/lib/Hook.js:18:14)\n    at Compilation.finish (/home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compilation.js:2714:28)\n    at /home/rohan-verma/Dropbox/Shared/Computer_code/firebase-webpack-babel/node_modules/webpack/lib/Compiler.js:1182:19\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"
-        }
-    ],
-    "warningsCount": 1,
+    "warnings": [],
+    "warningsCount": 0,
     "children": []
 }
