@@ -1,7 +1,7 @@
 /* 
 webpack.config.js file is a Node.js module that exports an object containing the configuration options for webpack. 
 
-When webpack is run, it reads the configuration from this file, which is executed in a Node.js environment. 
+When webpack is run, it reads the configuration from this file and is subsequently executed in a Node.js environment. 
 
 This means that you can use Node.js functions and syntax, such as require() and module.exports, in the webpack.config.js file.
 */
