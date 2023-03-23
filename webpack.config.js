@@ -32,7 +32,7 @@ module.exports = {
     // mode: 'development',
     mode: mode,
 
-    //! Read up on plugins from the Webpack&Babel README.md
+    //! Read up on plugins from the Webpack&Babel README.md in the Tech-Tips repo : https://github.com/rohan-v8rma/Tech-Tips
     //? This plugin will run everytime `webpack` is called.
     plugins: [new BundleAnalyzerPlugin({
 
