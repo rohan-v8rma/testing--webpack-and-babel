@@ -83,7 +83,24 @@ module.exports = {
 
     //*  devServer option allows you to run a development server that serves your application files, and it also provides some additional features like hot module replacement and automatic reloading of your web page when changes are detected
     devServer: {       
-        // `static` option is used to specify the directory from which the static files should be served. It can be an absolute or relative path. By default, it is set to the directory where the webpack configuration file is located.
+        // `static` option is used to specify the directory from which the static files should be served. It can be an absolute or relative path.
+
+        /* 
+        ? The default value of "static" path is '.' relative to the npm project directory
+        
+        It is important to specify the static path properly. 
+        
+        Otherwise, the `webpack-dev-server` would serve the files that it bundles and keeps in memory (these files are determined by the "output" field) at the wrong path of the server.
+
+        ! A potential issue that could be caused would be that suppose we forget to specify the "static" path. So the bundled file would be served at the root of the server being hosted; as usual.
+        ! BUT, our index.html is present in a sub-directory called 'dist', which actually references the bundled js files would be present at the 'dist' path of the server.
+        ! So, when we navigate to the 'dist' path of the server, we would be able to see the index.html file, but the index.html file would be referencing the pre-bundled js file and it wouldn't be being served by the dev-server, leading to the displayed output being out-of-date in relation to the current code
+
+        ? By specifying our "static" field as 'dist', the dev-server would stay consistent by serving the bundled files at the root of the server, but it would take the files in the local 'dist' directory of the project (that includes our index.html file), and serve them as well at the root of the server.
+        ? This would allow us to see our HTML page, as well as observe updates to the bundled code when we change the code that is being bundled.
+        
+        */
+
         static: './bundling_output',
 
         // `port` option is used to specify the port number on which the server should listen. The default port is 8080. This way it listens for HTTP requestss on this port of the hosting IP address.
@@ -112,7 +129,7 @@ module.exports = {
                 // In this case, the regular expression `/node_modules/` is used to exclude all files and directories that contain the string "node_modules" in their PATH.
                 exclude: /node_modules/,
 
-                // This `use` object is effectively for telling what loader we want to use
+                // This `use` object is effectively for telling what loader we want to use. Loaders allow webpack to work with files other than javascript (such as images, css, json, etc) as well aid in the conversion of file formats.
                 use: {
                     // If we don't provide any additional settings, this will reference the .babelrc file
                     loader: 'babel-loader'
